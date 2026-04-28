@@ -62,7 +62,7 @@ The goal of this analysis is to evaluate offensive patterns and match dynamics b
 
 This analysis is also published as an article on Medium:
 
-👉 *[Add your Medium article link here]*
+👉 *[(https://medium.com/@mariana.barboza/a-copa-do-mundo-feminina-ficou-mais-ofensiva-os-n%C3%BAmeros-n%C3%A3o-s%C3%A3o-t%C3%A3o-simples-9d16b12dd5d5)]*
 
 ---
 
